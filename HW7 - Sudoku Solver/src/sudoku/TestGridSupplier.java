@@ -1,9 +1,5 @@
 package sudoku;
 
-//
-// All puzzles modeled here are copyright 2016.
-//
-
 public class TestGridSupplier 
 {
 	//
@@ -108,7 +104,7 @@ public class TestGridSupplier
 	
 	
 	//
-	// You can use these to test your Grid's evaluate() method.
+	// Used for testing Grid's evaluate() method
 	//
 	private final static String[]		REJECT_1 =
 	{
