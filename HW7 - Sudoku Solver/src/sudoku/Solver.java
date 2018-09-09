@@ -89,6 +89,6 @@ public class Solver
 		solver.solve();
 		System.out.println(solver.getSolutions());
 		
-		// Print out your solution, or test if it equals() the solution in TestGridSupplier.
+		// Print out solution, or test if it equals() the solution in TestGridSupplier.
 	}
 }
