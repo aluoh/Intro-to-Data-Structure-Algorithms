@@ -1,2 +1,2 @@
-# Intro-to-Data-Structure-Algorithms
+# Intro-to-Data-Structure
 Homework assignments from the course
